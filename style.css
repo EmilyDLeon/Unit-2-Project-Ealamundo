@@ -1,0 +1,49 @@
+body {
+  background: #e8fcfc;
+}
+
+
+h1{
+    font-size: xxx-large;
+    text-align:center;
+    color: #B4114F;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:400px;
+}
+
+h2{
+  text-align:center;
+  color: #B4114F;
+  font-size: xxx-large;
+  font-family: 'Adamina', serif;
+}
+
+p{
+  text-align:center;
+  color: #B4114F;
+  font-size: 42px;
+  font-family: 'Adamina', serif;
+}
+
+.p2{
+  text-align:center;
+  color: #B4114F;
+  font-size: 39px;
+  font-family: 'Adamina', serif;
+}
+
+.sectionsContainer{
+    display:flex;
+    justify-content:space-between;
+}
+
+.section{
+    border: 5px teal solid;
+    margin:50px;
+    padding: 20px;
+}
